@@ -4,7 +4,7 @@
   "author": "Kais",
   "manifest_version": 2,
   "description": "Shows what Facebook thinks your pictures contain",
-  "homepage_url": "http://sarojsubedi.info.np",
+  "homepage_url": "https://github.com/kaissaroj/show-facebook-alternate-image-tags",
   "permissions": [
     "http://www.facebook.com/*", "https://www.facebook.com/*", "https://web.facebook.com/*"
   ],
